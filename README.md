@@ -29,7 +29,7 @@ Welcome to the **Odoo ERP Project**! This is a robust, all-in-one business manag
    ```bash
    pip install -r requirements.txt
    ```
-4. Start PostgreSQL and create a new database for Odoo.
+4. Start MSSQL and create a new database for Odoo.
 5. Run the Odoo server:
    ```bash
    python odoo-bin --addons-path=addons -d mydatabase
