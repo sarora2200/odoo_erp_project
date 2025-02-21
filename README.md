@@ -13,7 +13,7 @@ Welcome to the **Odoo ERP Project**! This is a robust, all-in-one business manag
 ## 🏗️ Installation
 ### Prerequisites
 - Python 3.8+
-- PostgreSQL
+- MSSQL
 - Odoo Dependencies (`pip install -r requirements.txt`)
 
 ### Steps to Install
