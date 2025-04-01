@@ -57,7 +57,7 @@ We welcome contributions! Here's how you can help:
 Need help? Join our community:
 - 📌 **Official Odoo Docs**: [https://www.odoo.com/documentation](https://www.odoo.com/documentation)
 - 💬 **Forums**: [https://www.odoo.com/forum](https://www.odoo.com/forum)
-- ✉️ **Email**: support@yourcompany.com
+- ✉️ **Email**: sarora2200@gmail.com
 
 ## 📜 License  
 This project is licensed under the terms of the [MIT License](LICENSE.txt).  
