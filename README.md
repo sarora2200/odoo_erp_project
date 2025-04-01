@@ -59,8 +59,9 @@ Need help? Join our community:
 - 💬 **Forums**: [https://www.odoo.com/forum](https://www.odoo.com/forum)
 - ✉️ **Email**: support@yourcompany.com
 
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for details.
+## 📜 License  
+This project is licensed under the terms of the [MIT License](LICENSE.txt).  
+
 
 🚀 **Power up your business with Odoo ERP!** 💼✨
 
