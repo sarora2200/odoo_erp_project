@@ -1,1 +1,1 @@
-https://app.powerbi.com/links/KsxP7ADNQj?ctid=2082de46-1afa-4b64-a440-6558f80e9840&pbi_source=linkShare&bookmarkGuid=414f2681-1101-4c43-bb5e-5198c49a5f69
+https://app.fabric.microsoft.com/groups/bbf33deb-cd67-4e48-9521-2dd9659f2f59/reports/bc836c41-b34c-416f-a4b5-1c473e725c39/760ee135da31e40f97ef?experience=fabric-developer
